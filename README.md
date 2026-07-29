@@ -8,7 +8,7 @@ I am Nataliya - a bioinformatician and biostatistician and currently I am:
 
 ### Additional programming activity
 
-Some of my coding work is in privated repositories. The plot below summarises anonymised Git activity outside this profile.
+Some of my coding work is in privated repositories. The plot below summarises my anonymised Git activity outside this profile.
 
 <img src="git_activity_plot.png" alt="Programming activity outside public GitHub repositories" width="500">
 
