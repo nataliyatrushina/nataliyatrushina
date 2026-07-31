@@ -12,4 +12,4 @@ Some of my coding work is in privated repositories. The plot below summarises my
 
 <img src="git_activity_plot.png" alt="Programming activity outside public GitHub repositories" width="500">
 
-Last updated: 15<sup>th</sup> July 2026
+Last updated: 30<sup>th</sup> July 2026
