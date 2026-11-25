@@ -22,4 +22,6 @@ without exposing confidential research data or source code.
 
 <img src="git_activity_plot.png" alt="Programming activity outside public GitHub repositories" width="500">
 
+Git activity captures only the computational component of my work. My professional responsibilities also include scientific and medical writing, preparation of publications and presentations, methodological discussions, and collaboration with clinical research teams.
+
 Last updated: 25<sup>th</sup> November 2026
